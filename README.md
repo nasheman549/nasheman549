@@ -1,6 +1,6 @@
 Hi there, I'm Nasheman 👋
 
-🎓 Computer Enigneering in Abbottabad, Pakistan  
+🎓 Computer Enigineering in Abbottabad, Pakistan  
 🔐 Passionate about Computer Networks, Cybersecurity,Embedded Systems, Machine Learning, Web Designing and Creative Graphic Designing
 🔭 Currently working on: "ML-Based Network Intrusion Detection System" `Final Year Project`  
 Design Skills: Proficient in Adobe Illustrator, Adobe Photoshop
