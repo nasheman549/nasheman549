@@ -4,7 +4,7 @@ Hi there, I'm Nasheman 👋
 🔐 Passionate about Computer Networks, Cybersecurity,Embedded Systems, Machine Learning, Web Designing and Creative Graphic Designing
 🔭 Currently working on: "ML-Based Network Intrusion Detection System" `Final Year Project`  
 Design Skills: Proficient in Adobe Illustrator, Adobe Photoshop
-📫 Reach me: [your-email@gmail.com](nashaman123456k@gmail.com) | [LinkedIn](www.linkedin.com/in/nasheman)
+📫 Reach me: [nashaman123456k@gmail.com](nashaman123456k@gmail.com) | [www.linkedin.com/in/nasheman](www.linkedin.com/in/nasheman)
 
 🚀 My Top Projects
 1. ML-Based Network Intrusion Detection System
