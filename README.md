@@ -1,16 +1,20 @@
-## Hi there 👋
+Hi there, I'm Nasheman 👋
 
-<!--
-**nasheman549/nasheman549** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Computer Enigneering in Abbottabad, Pakistan  
+🔐 Passionate about Computer Networks, Cybersecurity,Embedded Systems, Machine Learning, Web Designing and Creative Graphic Designing
+🔭 Currently working on: "ML-Based Network Intrusion Detection System" `Final Year Project`  
+Design Skills: Proficient in Adobe Illustrator, Adobe Photoshop
+📫 Reach me: [your-email@gmail.com](nashaman123456k@gmail.com) | [LinkedIn](www.linkedin.com/in/nasheman)
 
-Here are some ideas to get you started:
+🚀 My Top Projects
+1. ML-Based Network Intrusion Detection System
+ Detecting malicious network traffic using Python & Scikit-learn. Achieved 98% accuracy on NSL-KDD dataset.
+Tech: `Python` `Machine Learning` `Cybersecurity` `Pandas`
+2. Personal Portfolio Website 
+Responsive website to showcase my projects and skills.
+Tech: `HTML` `CSS` `JavaScript`
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🛠️ Skills & Tools
+ `Machine Learning Basics` `HTML` `CSS` `Graphic Designing`
+
+[![Nasheman's GitHub stats](https://github-readme-stats.vercel.app/api?username=nasheman549&show_icons=true&theme=tokyonight)](https://github.com/nasheman549)
