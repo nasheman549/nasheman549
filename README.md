@@ -1,6 +1,6 @@
 ## Hi there, I'm Nasheman 👋
 
-🎓 Computer Enigineering in Abbottabad, Pakistan  
+🎓BS in Computer Engineering at COMSATS University Islamabad, Abbottabad Campus Pakistan  
 🔐 Passionate about Computer Networks, Cybersecurity,Embedded Systems, Machine Learning, Web Designing and Creative Graphic Designing
 🔭 Currently working on: "ML-Based Network Intrusion Detection System" `Final Year Project`  
 Design Skills: Proficient in Adobe Illustrator, Adobe Photoshop
